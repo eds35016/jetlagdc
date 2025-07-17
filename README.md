@@ -1,2 +1,2 @@
 # jetlagdc
-A React Native iOS app for the Jet Lag DC trip.
+A React Web App for the Jet Lag DC trip.
